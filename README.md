@@ -1,0 +1,1 @@
+Kendi wordpress blogum üzerinden RSS verisi alan bir RSS Reader uygulamasıdır. AsyncTask ile arka planda RSS yükleme işlemlerini yaptırıyoruz. Custom ListView ile yazı başlıklarını ekranda kullanıyoruz. ListView item'ına tıklayınca Browser penceresinde yazıyı gösteriyoruz.  
